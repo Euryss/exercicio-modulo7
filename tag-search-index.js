@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Exercio: Criação de Objecto e Métodos","h":"class com.objectgeladeira.Geladeira","d":"Section","u":"com/objectgeladeira/Geladeira.html#exercio-cria-o-de-objecto-e-m-todos-heading"}];updateSearchResults();
